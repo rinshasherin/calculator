@@ -1,0 +1,38 @@
+table{
+    /* border: 3px solid black; */
+    background-color: rgb(50, 50, 50);
+    border-radius: 5px;
+    height: 500px;
+
+}
+td{
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+button{
+    background-color: rgb(76, 76, 76);
+    color: white;
+    border-radius: 5px;
+    font-size:30px;
+    height: 60px;
+    width: 90px;
+ 
+}
+button:hover{
+    border: 3px solid whitesmoke;
+}
+
+input{
+    background-color: rgb(119, 148, 150);
+    /* border: 3px solid ; */
+    width: 310px;
+    height: 60px;
+    text-align: right;
+    border-radius: 5px;
+    font-size: 30px;
+}
+.clear{
+    background-color: red;
+}
